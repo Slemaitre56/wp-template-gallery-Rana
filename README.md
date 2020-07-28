@@ -12,31 +12,31 @@ Ce WordPress a été fait en local donc lorsqu'il sera mis en ligne il faudra mo
 ![Image description](imageReadme/wp18.PNG)
 6. Cliquer sur "Formulaire de contact 1".
 7. Aller dans l'onglet E-mail et mettre votre adresse mail et enregistrer.
-![Image description](.imageReadme/wp19.PNG)
+![Image description](imageReadme/wp19.PNG)
 
 8. Aller dans l'onglet Apparence -> Personnaliser -> Réglages de la page d'accueil -> Section de portfolio.
     * Sur la page d'accueil on peut afficher seulement 12 photos en tout.(voir "Arranger la page d'accueil").
     * Mais en cliquant sur "Voir plus", on est dirigé vars la page "portofolio" qui existe aussi dans le menu burger.
     * Il y a toutes les photos sur cette page "Portfolio".
     * Modifier le lien vers cette page une fois le site mis sur le serveur avec le nom de votre site.
-    ![Image description](.imageReadme/wp20.PNG)
+    ![Image description](imageReadme/wp20.PNG)
 
 
 
 ## Premier pas sur WordPress
 
 1. Pour aller en mode "edition", il faudra taper dans votre url : /wp-admin pour aller sur le tableau de bord.
-![Image description](.imageReadme/wp1.PNG)
+![Image description](imageReadme/wp1.PNG)
 2. Faire les mises à jour si besoin.
 3. En cliquant sur le lien dans le cercle rouge, vous tomberez sur votre site.
-![Image description](.imageReadme/wp3.PNG)
+![Image description](imageReadme/wp3.PNG)
 4. Pour revenir en arrière, on clique ici.
-![Image description](.imageReadme/wp5.PNG)
+![Image description](imageReadme/wp5.PNG)
 
 ## Ajouter photos
 
 1. Allez dans Portfolios
-![Image description](.imageReadme/wp4.PNG)
+![Image description](imageReadme/wp4.PNG)
 2. Vous avez 3 catégories: 
     * All Portfolios : ici s'affiche toutes les photos éditées sur le site ( le titre de la photo/ le nom de l'auteur/ le nom de la catégorie/ et la date de parution).
     * Add new : crée une nouvelle page pour ajouter une nouvelle photo.
@@ -44,12 +44,12 @@ Ce WordPress a été fait en local donc lorsqu'il sera mis en ligne il faudra mo
 
 3. Pour créer un nouvel onglet/categorie:
     * Allez dans Portfolios Categories.
-    ![Image description](.imageReadme/wp6.PNG)
+    ![Image description](imageReadme/wp6.PNG)
     * Remplir le nom et le slug(optionnel - en miniscule et avec des "-" à la place des espaces).
     * Puis "add new categories".
 
 4. Allez ensuite dans "Add New"
-![Image description](.imageReadme/wp7.PNG)
+![Image description](imageReadme/wp7.PNG)
 
 5. Si vous souhaiterez rajouter des photos dans une catégories déjà existante, faire "Add New".
 
@@ -57,26 +57,26 @@ Ce WordPress a été fait en local donc lorsqu'il sera mis en ligne il faudra mo
    * Vous pourvez écrire un article mais ce n'est pas obligatoire.
    * Choisir une catégorie dans le menu de droite " Portfolio Categories" à chaque fois.
    * Cliquer dans "Set featured image" dans Featured Image dans le menu de droite à chaque fois.
-   ![Image description](.imageReadme/wp8.PNG)
+   ![Image description](imageReadme/wp8.PNG)
 
 7. * Choisir une images déjà téléchargés dans la bibliothèque de médias.
    * Ou, Téléverser des fichiers.
-   ![Image description](.imageReadme/wp9.PNG)
+   ![Image description](imageReadme/wp9.PNG)
 
 8. Séléctionner une image et remplir le "Texte Alternatif" pour le référencement.
 
 9. Cliquer sur "Set featured image" pour valider.
-![Image description](.imageReadme/wp10.PNG)
+![Image description](imageReadme/wp10.PNG)
 
 10. Titre : ok, catégorie: ok, photo: ok, faire "Publier" et encore "Publier" en haut à droite.
 ![Image description](.imageReadme/wp11.PNG)
 
 11. Une fois le message de publication apparu, vous pouvez revenir sur le tableau de bord.
-![Image description](.imageReadme/wp12.PNG)
-![Image description](.imageReadme/wp13.PNG)
+![Image description](imageReadme/wp12.PNG)
+![Image description](imageReadme/wp13.PNG)
 
 12. Il doit apparaitre dans "All Portfolios" et sur le site en cliquant sur le lien en haut à gauche.
-![Image description](.imageReadme/wp14.PNG)
+![Image description](imageReadme/wp14.PNG)
 
 
 ## Supprimer/modifier photos
@@ -84,15 +84,15 @@ Ce WordPress a été fait en local donc lorsqu'il sera mis en ligne il faudra mo
 1. Modifier:
     * Dans "All Portfolios", en passant la souris sur un titre, séléctionner "modifier" pour ouvrir la page ou "modification rapide".
     * Mettre à jour.
-    ![Image description](.imageReadme/wp15.PNG)
+    ![Image description](imageReadme/wp15.PNG)
 
 2. Supprimer:
     * Cocher la case devant le titre à supprimer.
     * Aller dans "Actions groupées".
-    ![Image description](.imageReadme/wp16.PNG)
+    ![Image description](imageReadme/wp16.PNG)
     * Choisir "Mettre à la corbeille".
     * faire "Appliquer".
-    ![Image description](.imageReadme/wp17.PNG)
+    ![Image description](imageReadme/wp17.PNG)
 
 ## Arranger la page d'accueil
 
@@ -106,5 +106,5 @@ Ce WordPress a été fait en local donc lorsqu'il sera mis en ligne il faudra mo
 7. Choisir les 12 photos que vous souhaitez faire apparaitre sur vois par d'accueil.
 8. Pour chaque, faire "modification rapide".
 9. Changer la date et l'heure !
-![Image description](.imageReadme/wp15.PNG)
+![Image description](imageReadme/wp15.PNG)
 10. Mettre à jour.
