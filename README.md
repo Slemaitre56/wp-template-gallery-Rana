@@ -16,9 +16,9 @@ Ce WordPress a été fait en local donc lorsqu'il sera mis en ligne il faudra mo
 
 8. Aller dans l'onglet Apparence -> Personnaliser -> Réglages de la page d'accueil -> Section de portfolio.
     * Sur la page d'accueil on peut afficher seulement 12 photos en tout.(voir "Arranger la page d'accueil").
-    * Mais en cliquant sur "Voir plus", on est dirigé vars la page "portofolio" qui existe aussi dans le menu burger.
+    * Mais en cliquant sur "Voir plus", on est dirigé vers la page "portofolio" qui existe aussi dans le menu burger.
     * Il y a toutes les photos sur cette page "Portfolio".
-    * Modifier le lien vers cette page une fois le site mis sur le serveur avec le nom de votre site.
+    * Modifier le lien vers cette page une fois le site mis enligne avec le nom de votre site.
     ![Image description](imageReadme/wp20.PNG)
 
 
@@ -33,7 +33,7 @@ Ce WordPress a été fait en local donc lorsqu'il sera mis en ligne il faudra mo
 4. Pour revenir en arrière, on clique ici.
 ![Image description](imageReadme/wp5.PNG)
 
-## Ajouter photos
+## Ajouter des photos
 
 1. Allez dans Portfolios
 ![Image description](imageReadme/wp4.PNG)
@@ -96,14 +96,14 @@ Ce WordPress a été fait en local donc lorsqu'il sera mis en ligne il faudra mo
 
 ## Arranger la page d'accueil
 
-1. Vous avez créer plusieurs catégories, vous avez passer votre après-midi à ajouter une par une 300 photos, mais sur votre page d'accueil... seulement 12 photos et une seule catégorie !!!!
+1. Vous avez crée plusieurs catégories, vous avez passé votre après-midi à ajouter une par une 300 photos, mais sur votre page d'accueil... seulement 12 photos et une seule catégorie !!!!
 2. No panic ! Toutes vos photos et catégories sont bien crées et elle se trouvent toutes sur le page "Portfolio" dans le menu de votre site !
 3. Mais alors pourquoi et comment faire pour en afficher plus !
 4. L'accueil affichera que les 12 dernières photos publiés. Si les 12 viennent de la catégorie "A la montagne", les autres disparaîtront de l'accueil.
 5. Il faut donc tricher !
 
 6. Aller dans "All Portfolios".
-7. Choisir les 12 photos que vous souhaitez faire apparaitre sur vois par d'accueil.
+7. Choisir les 12 photos que vous souhaitez faire apparaitre sur vôtre par d'accueil.
 8. Pour chaque, faire "modification rapide".
 9. Changer la date et l'heure !
 ![Image description](imageReadme/wp15.PNG)
