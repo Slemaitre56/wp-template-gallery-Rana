@@ -21,6 +21,8 @@ Ce WordPress a été fait en local donc lorsqu'il sera mis en ligne il faudra mo
     * Modifier le lien vers cette page une fois le site mis enligne avec le nom de votre site.
     ![Image description](imageReadme/wp20.PNG)
 
+9. Modifier le profil dans l'onglet Utilisiteur: adresse messagerie et sit web.
+
 
 
 ## Premier pas sur WordPress
