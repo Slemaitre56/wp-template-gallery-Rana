@@ -9,7 +9,7 @@ Ce WordPress a été fait en local donc lorsqu'il sera mis en ligne il faudra mo
 4. N'oubliez pas de créer/importer la base de donnée (modifier dans wp-config.php si changement de nom/mot de passe etc).
 
 5. Une fois dans le tableau de bord du WordPress(voir "Premier pas sur WordPress"), aller dans l'onglet Contact.
-![Image description](.imageReadme/wp18.PNG)
+![Image description](imageReadme/wp18.PNG)
 6. Cliquer sur "Formulaire de contact 1".
 7. Aller dans l'onglet E-mail et mettre votre adresse mail et enregistrer.
 ![Image description](.imageReadme/wp19.PNG)
